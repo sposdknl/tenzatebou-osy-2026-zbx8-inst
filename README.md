@@ -1,3 +1,5 @@
+﻿![Zabbix 8.0 LTS Banner](Images/banner.png)
+
 # Automatizovaná instalace Zabbix 8.0 LTS na Debianu 13
 
 Reprodukovatelná a idempotentní instalace monitorovacího systému **Zabbix 8.0 LTS** (server, webový frontend, **MariaDB**, **Apache** a **Zabbix Agent 2**) ve virtuálním stroji **Debian 13 (`bento/debian-13`)** pomocí nástroje **Vagrant**.
